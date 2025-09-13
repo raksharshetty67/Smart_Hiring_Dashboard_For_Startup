@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🚀 Smart Hiring Dashboard for Startups – Analyzing Job Application Funnel Efficiency
 
 ### 📌 Project Overview
@@ -57,3 +58,6 @@
 
 > 💬 SQL was used to calculate conversion percentages for each stage using JOINs and CASE statements, e.g., Application → Screening, Screening → Interview, etc.
 
+=======
+# Smart_Hiring_Dashboard_Startups
+>>>>>>> 1034a0716379b6b2a4c22c7b49acb3a57c678a6d
