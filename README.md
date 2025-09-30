@@ -51,6 +51,6 @@
 
 ## **Main Dashboard**
 
-![Main Dashboard](Smart%20Hiring%20Dashboard%20Startup%201.png)
+![Main Dashboard](Screenshot%202025-10-01%20030135.png)
 
 > ✅ Built on **10,000 candidate records**, this dashboard highlights funnel efficiency, hiring outcomes, source analysis, and role/department distributions.
